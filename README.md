@@ -1,7 +1,7 @@
 # java-kafka
 Kafka Producer Consumer Example
 **Start Zookeeper**
-bin/kafka-server-start.bat config/server.properties
+***-bin/kafka-server-start.bat config/server.properties***
 
 **Start Kafka Server**
 bin/kafka-server-start.bat config/server.properties
